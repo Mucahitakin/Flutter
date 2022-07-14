@@ -63,7 +63,6 @@ StadiumBorder
 CircleBorder
 RoundedRectangleBorder
 
-//Video url=https://www.youtube.com/watch?v=C6G0C7TpffQ&list=PL1k5oWAuBhgXdw1BbxVGxxWRmkGB1C11l&index=4
-//Video min=40:27
+
 
 */
